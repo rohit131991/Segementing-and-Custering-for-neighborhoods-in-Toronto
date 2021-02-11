@@ -1,1 +1,1 @@
-# Segementing-and-Custering-for-neighborhoods-in-Toronto
+# Segmenting-and-Custering-for-neighborhoods-in-Toronto
